@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "test-github"
+version = "0.1.0"
+description = ""
+authors = ["Petr Maev <petr.maev94@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
